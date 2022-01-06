@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Khugaev
-=======
 Arslan
->>>>>>> origin/listPUCW
